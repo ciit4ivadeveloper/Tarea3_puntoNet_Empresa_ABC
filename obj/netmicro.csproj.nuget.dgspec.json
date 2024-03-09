@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\practicaJueves\\netmicro\\netmicro.csproj": {}
+    "D:\\RunInstall\\Workspace_Integracion\\Tarea3_puntoNet_Empresa_ABC\\netmicro.csproj": {}
   },
   "projects": {
-    "C:\\practicaJueves\\netmicro\\netmicro.csproj": {
+    "D:\\RunInstall\\Workspace_Integracion\\Tarea3_puntoNet_Empresa_ABC\\netmicro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\practicaJueves\\netmicro\\netmicro.csproj",
+        "projectUniqueName": "D:\\RunInstall\\Workspace_Integracion\\Tarea3_puntoNet_Empresa_ABC\\netmicro.csproj",
         "projectName": "netmicro",
-        "projectPath": "C:\\practicaJueves\\netmicro\\netmicro.csproj",
+        "projectPath": "D:\\RunInstall\\Workspace_Integracion\\Tarea3_puntoNet_Empresa_ABC\\netmicro.csproj",
         "packagesPath": "C:\\Users\\Clon\\.nuget\\packages\\",
-        "outputPath": "C:\\practicaJueves\\netmicro\\obj\\",
+        "outputPath": "D:\\RunInstall\\Workspace_Integracion\\Tarea3_puntoNet_Empresa_ABC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Clon\\AppData\\Roaming\\NuGet\\NuGet.Config"
