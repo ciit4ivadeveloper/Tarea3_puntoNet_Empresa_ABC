@@ -2,9 +2,9 @@
 
     Es necesario tener instalado el .NET version 7
 
-    1. Limpiar el proyecto dotnet clean
-    2. Compilar el proyecto dotnet build
-    3. Ejecutar el proyecto dotnet run
+    1. Limpiar el proyecto: dotnet clean
+    2. Compilar el proyecto: dotnet build
+    3. Ejecutar el proyecto: dotnet run
 
     los servicios se exponen por el puerto:
     http://localhost:5045/
