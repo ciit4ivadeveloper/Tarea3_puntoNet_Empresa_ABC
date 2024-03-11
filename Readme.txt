@@ -27,3 +27,11 @@
         "perfilCompra": ,
         "valorCompra":
     } 
+
+=== Referencias:
+    Elaborado por Cristian Idrovo
+    Maestria Ingenieria Software 
+    Universidad Politecnica Salesiana
+
+=== LINK GITHUB
+    https://github.com/ciit4ivadeveloper/Tarea3_puntoNet_Empresa_ABC.git
